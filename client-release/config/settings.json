@@ -1,0 +1,9 @@
+{
+  "server_url": "wss://192.168.100.253:8443/ws/client",
+  "server_name": "remote-admin-lab.local",
+  "ca_cert": "certs\\server.crt",
+  "agent_version": "1.0.0",
+  "data_dir": "data",
+  "allow_offline_recovery": true,
+  "chunk_size_bytes": 262144
+}

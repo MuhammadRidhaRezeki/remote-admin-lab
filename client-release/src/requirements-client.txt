@@ -1,0 +1,6 @@
+pydantic>=2.9,<3
+websockets>=14,<17
+cryptography>=43,<47
+psutil>=6.0,<8
+customtkinter>=5.2,<6
+requests>=2.32,<3
